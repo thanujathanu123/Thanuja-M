@@ -3,7 +3,7 @@
 
 🎓 I'm a B.Tech student at Garden City University, passionate about Cybersecurity and Data Analytics.
 
-🚀 I explore emerging technologies, design efficient tools, and enjoy turning research into real-world prototypes—like secure blockchain systems or AI models for sustainability. I’m driven by the challenge of transforming complex problems into elegant, practical solutions.
+🚀 I explore emerging tech and love turning research into real-world tools—like secure blockchain systems or AI for sustainability. I enjoy solving complex problems with practical solutions.
 
 💻 With hands-on experience in Python, SQL, MongoDB, and tools like Power BI, I bridge the gap between raw data and actionable insights.
 
